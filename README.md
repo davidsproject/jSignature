@@ -1,2 +1,0 @@
-# jSignature
-jSignature
